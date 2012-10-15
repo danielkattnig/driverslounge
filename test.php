@@ -15,3 +15,5 @@ asdf
 sadf
 
 <?php exit(); ?>
+
+<? //auskommentiert ?>
