@@ -9,3 +9,9 @@
 <a href="test">TEST LINK</a>
 
 asdasd
+
+asdf
+
+sadf
+
+<?php exit(); ?>
