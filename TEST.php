@@ -5,5 +5,7 @@
  * and open the template in the editor.
  */
 
-asdf
+//asdf
+
+echo "DAS IST DER EINTRAG von Thomas Mayr";
 ?>
